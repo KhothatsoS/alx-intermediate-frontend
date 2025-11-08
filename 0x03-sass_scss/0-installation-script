@@ -1,1 +1,3 @@
+I installed SASS using the following command on Git Bash:
 
+npm install sass -v 3.7.4
